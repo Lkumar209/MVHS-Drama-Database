@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Creating a database in React for theatre teacher to organize the theatre props and set.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
